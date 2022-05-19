@@ -35,7 +35,7 @@ Web Developer and Designer
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/heyits_chaitanya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-  <br>
+
   <a href="https://www.dribbble.com/Chaitanya07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
-  <br>
+  
   <a href="https://www.linkedin.com/in/heyitschaitanya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
