@@ -4,7 +4,7 @@ Hi 👋 My name is Chaitanya Kashyap
 Web Developer and Designer
 --------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Bangalore, Karnataka
 * ✉️  You can contact me at [ckashyap500@gmail.com](mailto:ckashyap500@gmail.com)
 * 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on Next.js
