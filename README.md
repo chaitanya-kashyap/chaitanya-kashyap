@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaitanya Kashyap
 ==================================
 
-Web Developer and Designer
+UI / UX Designer and Developer 
 --------------------------
 
 * 🌍  I'm based in Karnal, Haryana
