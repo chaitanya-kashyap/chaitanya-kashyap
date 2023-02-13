@@ -4,7 +4,7 @@ Hi 👋 My name is Chaitanya Kashyap
 UI / UX Designer and Developer 
 --------------------------
 
-* 🌍  I'm based in Karnal, Haryana
+* 🌍  I'm based in Bangalore, Karnataka
 * ✉️  You can contact me at [ckashyap500@gmail.com](mailto:ckashyap500@gmail.com)
 * 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on Next.js
