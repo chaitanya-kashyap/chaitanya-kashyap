@@ -3,26 +3,21 @@
 🚀 Technical Skills
 
 Frontend Development:
-
-
 HTML5, CSS3, JavaScript (ES6+), TypeScript
 Next.js, React, Angular
 SASS, TailwindCSS
 
 
 UX Design:
-
 Adobe XD, Figma
 User Research, Wireframing, Prototyping
 
 
 Cloud & Database:
-
 AWS: S3, Lambda, CloudFront, EC2, Cognito
 Database: MongoDB
 
 🌟 What I Do
-
 Develop: Building responsive, high-performance web applications with a focus on user-centric design.
 
 Design: Creating intuitive interfaces through thoughtful UX design principles.
@@ -31,7 +26,6 @@ Optimize: Utilizing AWS to improve application performance, scalability, and rel
 
 
 💼 Professional Experience
-
 Led frontend development for a major web application, increasing user engagement by 30%.
 
 Collaborated with UX designers to enhance customer satisfaction scores by 25%.
