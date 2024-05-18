@@ -1,4 +1,4 @@
-# Chaitanya
+# Chaitanya Kashyap
 
 Passionate Frontend Developer and UX Designer with over 2 years of experience crafting intuitive and engaging web applications. My expertise lies in merging the art of design with the science of programming to create seamless user experiences. I'm also AWS certified, leveraging cloud technologies to enhance performance and scalability.
 
@@ -10,8 +10,8 @@ Passionate Frontend Developer and UX Designer with over 2 years of experience cr
 - SASS, TailwindCSS
 
 ### UX Design
-- Adobe XD, Figma
-- User Research, Wireframing, Prototyping
+- Adobe XD, Figma, Adobe Indesign
+- User Research, Wireframing, Prototyping, Storyboarding, User-Centered Design
 
 ### Cloud & Database
 - **AWS:** S3, Lambda, CloudFront, EC2, Cognito
