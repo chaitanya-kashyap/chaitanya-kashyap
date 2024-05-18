@@ -1,22 +1,23 @@
-👋 Hi there! I'm [Your Name], a passionate Frontend Developer and UX Designer with over [X] years of experience crafting intuitive and engaging web applications. My expertise lies in merging the art of design with the science of programming to create seamless user experiences. I'm also AWS certified, leveraging cloud technologies to enhance performance and scalability.
+👋 Hi there! I'm Chaitanya, a passionate Frontend Developer and UX Designer with over 2 years of experience crafting intuitive and engaging web applications. My expertise lies in merging the art of design with the science of programming to create seamless user experiences. I'm also AWS certified, leveraging cloud technologies to enhance performance and scalability.
 
 🚀 Technical Skills
 Frontend Development:
 
 HTML5, CSS3, JavaScript (ES6+), TypeScript
-React, Angular, Vue.js
-SASS, LESS, Bootstrap, Material-UI
+Next.js, React, Angular
+SASS, TailwindCSS
 
 
 UX Design:
 
-Adobe XD, Sketch, Figma, InVision
+Adobe XD, Figma
 User Research, Wireframing, Prototyping
 
 
-Cloud:
+Cloud & Database:
 
 AWS: S3, Lambda, CloudFront, EC2, Cognito
+Database: MongoDB
 
 🌟 What I Do
 Develop: Building responsive, high-performance web applications with a focus on user-centric design.
